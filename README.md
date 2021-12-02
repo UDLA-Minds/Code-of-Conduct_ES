@@ -84,6 +84,8 @@ Todos los miembros directivos están obligados a respetar la privacidad y seguri
 
 Los directivos encargados seguirán estas Pautas de impacto comunitario para determinar las consecuencias de cualquier acción que consideren que infringe este código de conducta, los directivos proporcionarán la sanción consideren apropiada:
 
+---
+
 > ***1. Corrección***.
 
 Impacto en la comunidad: Faltas leves como, por ejemplo, uso de lenguaje inapropiado u otro comportamiento considerado poco sano, ético, profesional o no deseado en la comunidad. 
